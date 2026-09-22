@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Reem Alzarooni"
+  name   : Reem Alzarooni
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "friendship is magic - twilight sparkle"
   links:
