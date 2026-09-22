@@ -61,7 +61,7 @@ Where AI fits, and where I'm still uneasy. I use AI tools daily — for summariz
 
 What I want to explore next. I'd like to get more comfortable with text-as-data methods — the kind of distant reading techniques the Literature majors in our cohort use — and apply them to environmental policy documents, which are text-heavy but rarely analyzed that way in my field. I also want to get better at building interactive visualizations rather than static charts, since the Interactive Media students in our group have shown me how much more a dataset can communicate when someone can explore it themselves. Mostly, though, I'm leaving this unit with a more humble sense of what "literacy" means here: not fluency in one toolkit, but the flexibility to borrow methods across disciplines and ask what each one reveals or hides.
 
-Chatgpt
+ChatGPT
 
 As a 20-year-old university student majoring in Computer Science, I have always thought of myself as someone who is digitally literate. I use technology every day for school, communication, entertainment, and personal projects, so I usually do not think twice about whether I know how to use digital tools. However, this course has made me realize that digital literacy is much bigger than simply knowing how to use a computer or an application. It also involves understanding how information is created, organized, analyzed, and shared, and how technology changes the way we understand the world.
 
