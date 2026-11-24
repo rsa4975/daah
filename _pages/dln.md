@@ -4,6 +4,30 @@ title: "DLN"
 author_profile: false
 ---
 
+Step 2:
+
+Before taking Introduction to Digital Humanities, I understood digital literacy mainly as knowing how to use technology. I was familiar with different digital tools and platforms, and I considered myself comfortable working with them. Whether creating visual content, editing media, organizing information, or writing documents, I could usually find my way around different applications. However, I rarely thought about how these tools actually worked or how they influenced the information I was creating. I was more interested in what I could do with technology than in questioning how it shaped the process.
+
+Throughout this course, my understanding of digital literacy has changed. I have started to realize that being digitally literate is not just about knowing how to use different tools. It also means understanding where information comes from, how it is organized, and what might be missing. Technology is not simply something we use to complete tasks. It can also influence how we understand information, communicate ideas, and see the world.
+
+One of the first things I found interesting about Digital Humanities was how it brings together different academic subjects. Students from different backgrounds approach the same information in different ways. For example, someone studying literature might focus on the meaning of a text, its language, and its historical context. Someone with a background in computer science might focus on organizing the text into data, identifying patterns, or using code to analyze it. Both approaches are useful, and combining them can lead to a better understanding of the material.
+
+This connects to Berry and Fagerjord's discussion in *On the Way to Computational Thinking*. Computational thinking is often associated with computer science and programming, but it can also be used to approach problems in other subjects. It involves breaking complicated problems into smaller parts, identifying patterns, and finding ways to organize information. For example, instead of reading hundreds of novels individually, researchers can use computational tools to identify common words or patterns across them. This makes it possible to notice things that might be difficult to find through individual reading. However, finding a pattern does not automatically explain its meaning. We still need to understand the context behind it.
+
+I noticed this when we started exploring textual analysis and distant reading. Close reading involves looking carefully at an individual text, paying attention to its language and meaning. Distant reading takes a different approach by examining large collections of texts and looking for patterns across them. Tools such as Voyant and Google Ngram Viewer allow researchers to study word frequencies and changes in language over time. Before learning about these methods, I mainly associated understanding a text with reading it closely. I now understand that looking at larger collections can reveal patterns and connections that might otherwise go unnoticed.
+
+However, this also raises an important question: can we really understand human expression by turning it into data? For example, a chart might show that a particular word appears frequently in a collection of books, but it cannot fully explain why the authors used that word or what it means in each situation. Computers can help us identify patterns, but people still need to interpret them.
+
+Another thing I have started to question is whether digital tools are really neutral. Before this course, I mostly thought of software as something designed to make our lives easier. However, the people who create these tools make decisions about how they work, what features they include, and what users can do with them. These decisions influence how we interact with technology and information. For example, social media platforms decide what content appears more frequently and what receives less attention. This means that technology does not simply show us information; it can also influence what we see.
+
+These ideas are especially important when thinking about artificial intelligence. AI tools are becoming a regular part of education and everyday life, and it is easy to focus mainly on how much time they save. They can generate text, summarize information, and help with different tasks. However, using AI does not necessarily mean understanding the information it produces. An answer might sound convincing but still contain mistakes or leave out important details.
+
+AI systems are also influenced by the information they are trained on. This means they can repeat existing biases or overlook certain perspectives. Before this course, I might have focused more on whether an AI tool gave me a useful answer. Now, I think it is just as important to ask where that answer comes from and whether I can trust it. I do not think AI should be avoided completely, but it should be used carefully. We need to check its information, question its answers, and recognize its limitations.
+
+Looking back, I realize that my original understanding of digital literacy was quite limited. I thought being digitally literate meant knowing how to use different platforms and complete tasks independently. I now understand that there is much more to it. It also involves questioning the information we receive, understanding how digital tools work, and recognizing that technology is shaped by human decisions.
+
+Ultimately, I do not think becoming digitally literate means knowing everything about technology or being able to code every tool I use. Instead, it means knowing how to use technology while also questioning it. Digital Humanities has shown me that computational tools can help us discover new things about history, culture, and society, but they cannot replace human interpretation. As technology becomes a bigger part of our everyday lives, understanding how to question it is just as important as knowing how to use it.
+
 Gemini
 
 Reflection on Digital Literacy: Navigating Interdisciplinary Boundaries, Computational Thinking, and AI
